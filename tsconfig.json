@@ -20,7 +20,8 @@
     ],
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    "noEmitOnError": false
   },
   "include": [
     "next-env.d.ts",
